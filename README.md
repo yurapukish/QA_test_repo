@@ -1,1 +1,2 @@
-# QA_test_repo
+# Qa Vadim course 
+test repo
